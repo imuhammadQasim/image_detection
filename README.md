@@ -15,9 +15,9 @@ The purpose of this project is to demonstrate my understanding of the core conce
 ---
 
 ## 🛠️ Technologies Used
-- **Language:** [Python / Java / C++ / JavaScript / etc.]
-- **Tools:** [VS Code, Jupyter Notebook, etc.]
-- **Libraries (if any):** [NumPy, Pandas, React, etc.]
+- **Language:** [Python]
+- **Tools:** [VS Code,  Notebook, etc.]
+- **Libraries (if any):** [NumPy, Pandas, Ultralytics, Scipy, pytorch, pytorchvission, cv2, opencv etc.]
 
 ---
 
